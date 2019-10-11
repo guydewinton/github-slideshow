@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Some kind of **MADNESS**
 Use the left arrow to go back!
 ---
 What does this do?
